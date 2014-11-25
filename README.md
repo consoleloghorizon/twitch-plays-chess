@@ -1,2 +1,2 @@
-twitch-plays-chess
+#Twitch Plays Chess
 ==================
